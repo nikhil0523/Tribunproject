@@ -51,4 +51,4 @@ Content: GoPay is actively involved in combating online gambling...
 - If Google Translate does not work, try `pip install googletrans==4.0.0-rc1`.
 
 ## License
-This project is open-source and free to use. Modify it as needed!
+This project is proprietary. Unauthorized use, distribution, or modification is prohibited.
